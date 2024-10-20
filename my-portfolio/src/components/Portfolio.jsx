@@ -5,7 +5,7 @@ import work3 from '../assets/img/eforum.webp';
 
 const Portfolio = () => {
   const portfolioItems = [
-    { imgSrc: work1, title: 'Netflix Clone', category: 'Website', link: 'https://edenesayas-moviesite.netlify.app/' },
+    { imgSrc: work1, title: 'Netflix Clone', category: 'Website', link: 'https://edenesayas-filmsite.netlify.app/' },
     { imgSrc: work2, title: 'Amazon Clone', category: 'Web Design', link: 'https://amazonclonebyeden.netlify.app/' },
     { imgSrc: work3, title: 'Evangadi Forum', category: 'Website', link: 'https://evangadi-forum-by-edenesayas123.netlify.app/' },
   ];
